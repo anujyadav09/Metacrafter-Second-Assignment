@@ -7,8 +7,8 @@ This Solidity smart contract implements a basic ERC-20 token with the name "anuj
 
 ## Features
 
-- *Token Name:* "anuj"
-- *Token Abbreviation:* "yadav"
+- *Token Name:* "Anuj_Yadav"
+- *Token Abbreviation:* "AY"
 - *Minting:* Allows new tokens to be created and assigned to addresses.
 - *Burning:* Allows tokens to be destroyed from addresses, reducing the total supply.
 
