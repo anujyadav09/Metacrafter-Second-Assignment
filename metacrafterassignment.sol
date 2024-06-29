@@ -4,8 +4,8 @@ pragma solidity 0.8.26;
 contract anujyadav {
 
     // Public variables
-    string public token_name = "anuj";
-    string public abbrev = "yadav";
+    string public token_name = "Anuj_Yadav";
+    string public abbrev = "AY";
     uint public totalSupply;
 
     // Mapping to store balances
